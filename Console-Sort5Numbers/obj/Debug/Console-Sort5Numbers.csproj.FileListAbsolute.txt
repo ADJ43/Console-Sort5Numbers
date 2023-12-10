@@ -1,0 +1,7 @@
+C:\Users\adjse\source\repos\Console-Sort5Numbers\Console-Sort5Numbers\bin\Debug\Console-Sort5Numbers.exe.config
+C:\Users\adjse\source\repos\Console-Sort5Numbers\Console-Sort5Numbers\bin\Debug\Console-Sort5Numbers.exe
+C:\Users\adjse\source\repos\Console-Sort5Numbers\Console-Sort5Numbers\bin\Debug\Console-Sort5Numbers.pdb
+C:\Users\adjse\source\repos\Console-Sort5Numbers\Console-Sort5Numbers\obj\Debug\Console-Sort5Numbers.csproj.AssemblyReference.cache
+C:\Users\adjse\source\repos\Console-Sort5Numbers\Console-Sort5Numbers\obj\Debug\Console-Sort5Numbers.csproj.CoreCompileInputs.cache
+C:\Users\adjse\source\repos\Console-Sort5Numbers\Console-Sort5Numbers\obj\Debug\Console-Sort5Numbers.exe
+C:\Users\adjse\source\repos\Console-Sort5Numbers\Console-Sort5Numbers\obj\Debug\Console-Sort5Numbers.pdb
